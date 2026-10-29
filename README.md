@@ -2,7 +2,7 @@
 
 This customizable mod allows you to change the amount of damage you take when falling off a motorcycle. 
 
-You can make this adjustment in the mod's .ini file. Setting it to 0 means you take no damage when falling off a bike.  
+You can make this and other adjustments in the mod's .ini file. Setting the fall damage to 0 means you take no damage when falling off a bike.  
 
 By default, it is set to a value equivalent to that of GTA SA. There is also an option to ensure that damage from motorcycle falls does not affect your armor, just like in GTA SA.
 
