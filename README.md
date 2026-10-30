@@ -1,4 +1,4 @@
-# GTA Vice City  Bike Fall Damage
+# GTA Vice City Custom Bike Fall Damage
 
 This customizable mod allows you to change the amount of damage you take when falling off a motorcycle. 
 
