@@ -1,5 +1,7 @@
 # GTA Vice City Custom Bike Fall Damage
 
+Tired of taking a lot of damage when you fall off your bike? Do you want to take even more? Or would you prefer to take none at all?
+
 This customizable mod allows you to change the amount of damage you take when falling off a motorcycle. 
 
 You can make this and other adjustments in the mod's .ini file. Setting the fall damage to 0 means you take no damage when falling off a bike.  
