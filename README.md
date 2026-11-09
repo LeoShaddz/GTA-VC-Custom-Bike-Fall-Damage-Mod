@@ -8,6 +8,13 @@ You can make this and other adjustments in the mod's .ini file. Setting the fall
 
 By default, it is set to a value equivalent to that of GTA SA (3). There is also an option to ensure that damage from motorcycle falls does not affect your armor, just like in GTA SA.
 
+# Installation
+
+1. Install the Ultimate Asi Loader and Modloader in in the game's root folder
+2. Extract the file "GTA.VC.Custom.Bike.Fall.Damage.Mod.v1.0.zip"
+3. Copy the "Custom Bike Fall Damage" folder into the "modloader" folder, which is located in your game's root directory.
+4. Done
+
 # AI disclosure
 The code of this mod was written by Claude Sonnet 5.5 and tested in-game by me.
 
